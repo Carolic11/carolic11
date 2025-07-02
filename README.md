@@ -12,7 +12,7 @@ Currently focused on becoming a **Test Automation and Performance Specialist**.
 - Built a **Java Swing app** for English learning using `SQLite` as database (University project).
 
 🧰 Tech Stack:
-`QA Manual` `Java (OOP)` `JUnit` `Swing` `SQLite` `Postman` `Git` `JMeter` `Agile` `CI/CD (in progress)`
+`QA Manual` `Java (POO)` `JUnit` `Swing` `SQLite` `Postman` `Git` `JMeter` `Agile` `CI/CD (in progress)`
 
 📈 Goals for 2025:
 - Transition into a QA Automation Engineer role.
